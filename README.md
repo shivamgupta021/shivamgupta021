@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Shivam's GitHub stats](https://github-readme-stats-chi-ten-53.vercel.app/api?username=shivamgupta021&show_icons=true&show=prs_merged,prs_merged_percentage&hide=issues,stars,contribs&theme=tokyonight&exclude_repo=github-readme-stats)](https://github.com/shivamgupta021/github-readme-stats)
+[![Shivam's GitHub stats](https://github-readme-stats-chi-ten-53.vercel.app/api?username=shivamgupta021&show_icons=true&show=prs_merged,prs_merged_percentage&hide=issues,stars,contribs&theme=tokyonight&exclude_repo=github-readme-stats,shivamgupta021)](https://github.com/shivamgupta021/github-readme-stats)
 <!--
 **shivamgupta021/shivamgupta021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
